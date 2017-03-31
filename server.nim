@@ -1,4 +1,4 @@
-import jester, asyncdispatch, htmlgen, json, strutils
+import jester, asyncdispatch, htmlgen, json, strutils, httpclient
 
 proc generateResponse(keyword: string): JsonNode =
   var response = newJArray()
@@ -19,4 +19,14 @@ routes:
     resp(Http200, [("Access-Control-Allow-Origin", "*")], $generateResponse(keyword))
 
 
-runForever()
+proc pollPackages {.async.} =
+  while true:
+    await sleepAsync 600 * 1000
+    let resp = getContent("https://raw.githubusercontent.com/nim-lang/packages/master/packages.json")
+    writeFile("packages.json", $resp)
+
+proc main() =
+  asyncCheck pollPackages()
+  runForever()
+
+main()
