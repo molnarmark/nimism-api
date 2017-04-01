@@ -6,7 +6,7 @@ Keep in mind that it is really **beta**. A lot, and I mean a lot of refactoring 
 
 #### Todos
 
-- [ ] Add a better way of updating package cache (Might fetch it from GitHub directly?)
+- [x] Add a better way of updating package cache (Might fetch it from GitHub directly?)
 - [ ] Make this more awesome..
 
 #### Developer ####

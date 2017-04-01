@@ -1,8 +1,9 @@
 import jester, asyncdispatch, htmlgen, json, strutils, httpclient
 
+var nodes = parseFile("packages.json")
+
 proc generateResponse(keyword: string): JsonNode =
   var response = newJArray()
-  var nodes = parseFile("packages.json")
   for node in nodes:
     if keyword in $node["name"]:
       response.add node
@@ -23,6 +24,7 @@ proc pollPackages {.async.} =
   while true:
     await sleepAsync 600 * 1000
     let resp = getContent("https://raw.githubusercontent.com/nim-lang/packages/master/packages.json")
+    nodes = parseJson($resp)
     writeFile("packages.json", $resp)
 
 proc main() =
