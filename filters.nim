@@ -26,7 +26,14 @@ proc apply(filter: SearchFilter, packages: seq[JsonNode]): JsonNode =
 
   case kind:
   of "repo":
-    pkgResult = packages.filter(proc(package: JsonNode): bool = package["method"].getStr.normalize == value.normalize)
+    pkgResult = packages.filter(proc(package: JsonNode): bool =
+      case value.normalize:
+      of "github":
+        return package["method"].getStr.normalize == "git"
+
+      of "bitbucket":
+        return package["method"].getStr.normalize == "hg"
+      )
   of "license":
     pkgResult = packages.filter(proc(package: JsonNode): bool = package["license"].getStr.normalize == value.normalize)
 
@@ -40,7 +47,7 @@ proc parseFilters*(keyword: string): seq[SearchFilter] =
   var usedFilters = seq[string](@[])
 
   if isMultiFilter keyword:
-    for filterSet in keyword.split ";":
+    for filterSet in keyword.split ",":
         if filterSet == "": break
         let filterData = filterSet.split "="
         if not usedFilters.contains(filterData[0]): filters.add SearchFilter(kind: filterData[0], value: filterData[1])
