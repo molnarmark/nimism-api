@@ -6,6 +6,7 @@ var packageNodes* = seq[JsonNode](@[])
 proc fetchPackages* =
   let resp = getContent("https://raw.githubusercontent.com/nim-lang/packages/master/packages.json")
 
+  packageNodes = seq[JsonNode](@[])
   for node in parseJson($resp).items:
     packageNodes.add node
 
