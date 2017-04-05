@@ -1,9 +1,13 @@
 import asyncdispatch, httpclient, json, strutils
 import filters
+import logging
 
 var packageNodes* = seq[JsonNode](@[])
+var packagesLogger = newFileLogger("packages.log", fmtStr = verboseFmtStr)
+addHandler(packagesLogger)
 
 proc fetchPackages* =
+  packagesLogger.log lvlAll, "Fetching packages.."
   let resp = getContent("https://raw.githubusercontent.com/nim-lang/packages/master/packages.json")
 
   packageNodes = seq[JsonNode](@[])
@@ -14,10 +18,12 @@ proc fetchPackages* =
 
 proc initPolling* {.async.} =
   while true:
-    await sleepAsync 600 * 1000
+    # supposed to be once every 24h
+    await sleepAsync 24 * 600 * 10000
     fetchPackages()
 
 proc searchInPackages*(keyword: string): JsonNode =
+  packagesLogger.log(lvlAll, "Searching with keyword: " & keyword)
   var response = newJArray()
 
   if not isFilter keyword:
@@ -32,4 +38,5 @@ proc searchInPackages*(keyword: string): JsonNode =
     var filters = parseFilters(keyword)
     response = filters.applyFilters(packageNodes)
 
+  packagesLogger.log lvlAll, "Returning a response: " & $response
   return response
