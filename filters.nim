@@ -1,6 +1,6 @@
 import json, strutils, sequtils, logging
 
-var packagesLogger = newFileLogger("packages.log", fmtStr = verboseFmtStr)
+var packagesLogger = newFileLogger("filters.log", fmtStr = verboseFmtStr)
 addHandler(packagesLogger)
 
 type
