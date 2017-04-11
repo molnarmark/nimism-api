@@ -7,8 +7,14 @@ var searchCache* = newTable[string, string]()
 var packagesLogger = newFileLogger("packages.log", fmtStr = verboseFmtStr)
 addHandler(packagesLogger)
 
-# this is only for github only at the moment
-proc getReadme*(url: string): string =
+# these are only for github only at the moment
+
+proc getProfileInfo(url: string): JsonNode =
+  let username =  url.split("/")[3]
+  # add authentication to remove limit
+  return parseJson getContent("http://api.github.com/users/" & username)
+
+proc getReadme(url: string): string =
   for ext in ["md", "markdown", "rks"]:
     try:
       result = getContent("https://raw.githubusercontent.com" & url.replace("https://github.com", "") & "/master/README." & ext)
@@ -23,7 +29,9 @@ proc getPackageDetails*(keyword: string): JsonNode =
     return
 
   var readme = getReadme(url)
+  var profileinfo = getProfileInfo(url)
   result.add "readme", newJString(readme)
+  result.add "profiledata", profileinfo
 
 proc fetchPackages* =
   packagesLogger.log lvlAll, "Fetching packages.."

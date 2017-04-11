@@ -376,3 +376,523 @@ DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
 DEBUG GET /package/colorize
 DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
 DEBUG Crash incoming
+INFO Jester is making jokes at http://localhost:5000
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG Crash incoming
+INFO Jester is making jokes at http://localhost:5000
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 2107, Access-Control-Allow-Origin: *}
+DEBUG Crash incoming
+INFO Jester is making jokes at http://localhost:5000
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3332, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3332, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3332, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3332, Access-Control-Allow-Origin: *}
+DEBUG Crash incoming
+INFO Jester is making jokes at http://localhost:5000
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+DEBUG   200 OK {Content-Length: 3333, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG Crash incoming
+INFO Jester is making jokes at http://localhost:5000
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG Crash incoming
+INFO Jester is making jokes at http://localhost:5000
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG GET /search/colorize
+DEBUG   200 OK {Content-Length: 251, Access-Control-Allow-Origin: *}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(31)         getPackageDetails
+packages.nim(14)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG Crash incoming
+INFO Jester is making jokes at http://localhost:5000
+DEBUG GET /package/colorize
+ERROR Traceback (most recent call last)
+server.nim(22)           server
+server.nim(19)           main
+asyncdispatch.nim(1069)  runForever
+asyncdispatch.nim(1104)  poll
+asyncdispatch.nim(176)   processPendingCallbacks
+asyncmacro.nim(34)       cb
+asynchttpserver.nim(217) processClientIter
+jester.nim(305)          :anonymous
+jester.nim(276)          handleHTTPRequest
+asyncmacro.nim(370)      handleRequest
+asyncmacro.nim(34)       cb
+jester.nim(237)          handleRequestIter
+asyncmacro.nim(370)      match
+asyncmacro.nim(34)       cb
+jester.nim(432)          matchIter
+packages.nim(32)         getPackageDetails
+packages.nim(15)         getProfileInfo
+httpclient.nim(580)      getContent
+403 Forbidden
+DEBUG   502 Bad Gateway {Content-Length: 979, Content-Type: text/html;charset=utf-8}
+DEBUG Crash incoming
