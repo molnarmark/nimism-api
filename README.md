@@ -13,5 +13,8 @@ Keep in mind that it is really **beta**. A lot, and I mean a lot of refactoring 
 
  - Molnár Márk
 
+#### Contributing ####
+Contributions are welcome as I don't have a lot of time to work on this.
+
 #### License ####
 [MIT](https://opensource.org/licenses/mit-license.php)
