@@ -1,7 +1,7 @@
 import json, strutils, sequtils, logging
 
-var packagesLogger = newFileLogger("filters.log", fmtStr = verboseFmtStr)
-addHandler(packagesLogger)
+var filtersLogger = newFileLogger("filters.log", fmtStr = verboseFmtStr)
+addHandler(filtersLogger)
 
 type
   SearchFilter = object
@@ -43,7 +43,7 @@ proc apply(filter: SearchFilter, packages: seq[JsonNode]): JsonNode =
   for package in pkgResult:
     result.add package
 
-  packagesLogger.log lvlAll, "Applied a filter"
+  filtersLogger.log lvlAll, "Applied a filter"
   return result
 
 proc parseFilters*(keyword: string): seq[SearchFilter] =

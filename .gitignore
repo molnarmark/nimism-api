@@ -2,3 +2,5 @@ nimcache
 packages.json
 server
 packages.log
+filters.log
+server.log

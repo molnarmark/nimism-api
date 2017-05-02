@@ -1,8 +1,8 @@
 import jester, asyncdispatch, htmlgen, json, strutils, httpclient, posix, logging
 import packages
 
-var packagesLogger = newFileLogger("server.log")
-addHandler(packagesLogger)
+var serverLogger = newFileLogger("server.log")
+addHandler(serverLogger)
 
 routes:
   get "/search/@keyword":
@@ -11,7 +11,7 @@ routes:
     resp Http200, [("Access-Control-Allow-Origin", "*")], $getPackageDetails(@"keyword")
 
 onSignal(SIGINT, SIGTERM):
-  packagesLogger.log lvlAll, "Crash incoming"
+  serverLogger.log lvlAll, "Crash incoming"
   quit()
 
 proc main() =
